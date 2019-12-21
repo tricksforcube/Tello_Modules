@@ -1,6 +1,9 @@
 Tello is easy to fly drone and programmable with Python.
-The python files in this repository are used to fly the tello drone without videostreaming :(
+The python files in this repository are used to fly the tello drone without videostreaming :( 
 The tello_updated_ui.py file which uses the tello class provided by Ryze techonlogies 
 The updated ui file provides the scale bar for navigation 
+THe main program is in tello_updated_ui.py file 
+The tello_working is the default Ryze tello class
+
 
 
